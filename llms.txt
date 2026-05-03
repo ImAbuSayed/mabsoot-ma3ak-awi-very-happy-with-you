@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> تعالي يا روحي في حضني الليلة
+> قلبي معاكي وما باليد حيلة
+> نار الشوق في قلبي بتزيد
+> حبك في دمي كل يوم جديد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
