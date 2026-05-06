@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mabsoot-ma3ak-awi-very-happy-with-you/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Mabsoot Ma3ak Awi – Very happy with you.](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Mabsoot Ma3ak Awi – Very happy with you.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
