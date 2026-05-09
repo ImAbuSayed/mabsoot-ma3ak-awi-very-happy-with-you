@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mabsoot Ma3ak Awi – Very happy with you.
+
+This log tracks the cryptographic history and versioning for the song **Mabsoot Ma3ak Awi – Very happy with you.** (mabsoot-ma3ak-awi-very-happy-with-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:55:38.863783 | `v1` | `117ec02f2500b9afa6dcd06041bbefde06a3f433119c3203efd5ee5ca8a33c61` | `1b6534b9280abe18ee5c9dde76531007423a1c74a14f780cfe28c8f46b5a796c` | `2026-05-09_mabsoot-ma3ak-awi-very-happy-with-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
